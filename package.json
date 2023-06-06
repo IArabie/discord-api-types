@@ -1,0 +1,24 @@
+{
+  "name": "@arabie/discord-api-types",
+  "version": "0.0.0-beta",
+  "description": "Discord API Types",
+  "main": "lib/Index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IArabie/discord-api-types.git"
+  },
+  "keywords": [
+    "discord",
+    "api",
+    "types"
+  ],
+  "author": "Arabie <iiarabieii@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IArabie/discord-api-types/issues"
+  },
+  "homepage": "https://github.com/IArabie/discord-api-types#readme"
+}
